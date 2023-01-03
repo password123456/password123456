@@ -12,7 +12,8 @@ feedbacks are helpful for spend my time doing meaningful, meaningless coding.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpassword123456%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-
+![password123456's GitHub stats](https://github-readme-stats.vercel.app/api?username=password123456&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=password123456&langs_count=6&theme=default&layout=compact)](https://github.com/password123456/github-readme-stats)
 
 
 <!--
