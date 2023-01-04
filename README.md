@@ -7,22 +7,34 @@ I'm a **Cyber Security Engineer** live in [South Korea](https://www.google.com/m
 
 [![Telegram Badge](https://img.shields.io/badge/-sendmefuture-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@gram)](https://telegram.org/@sendmefuture)
 [![Gmail Badge](https://img.shields.io/badge/-kodoi486@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kodoi486@gmail.com)](mailto:kodoi486@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkedin/)](https://www.linkedin.com/in/linkedin/)
 [![GitHub followers](https://img.shields.io/github/followers/password123456?style=social)](https://www.github.com/password123456)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=password123456" alt="password123456" /> </img> </p> 
 
 > Your time is limited, so don't waste it living meaningless life. Meet the parents, friends, children. 
-> Love, cover and lead them.
+> protect and lead and love them against evil.
 > Please show good influence. 
-> Everydays life is not always good but must be a knight of light rather than darkness.
-> -- that's HumanBeing
+> Everyday life is always not enough to satisfy, but must be a knight of the light rather than darkness.
+> -- that's the way you should go.
 
-## Skill Set :muscle:
+### My top 10 technologies keyword :muscle:
 
-These are some of the major technologies that I use or have worked on in the past:
+- Security Assessment 
+- Incident Response 
+- Vulnerability Analysis and Mitigation
+- Payment(Block Chain) 
+- Web Application(Rest API) 
+- Cloud / On-Premise Enviroments
+- Handling 100,000 servers 
+- Automation Implementation 
+- Self-sufficiency of work tools 
+- SIEM 
 
+## I'm familiar with these things.
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /> <img src="https://img.shields.io/badge/-Elastic-%23005571?style=for-the-badge&logo=elastic&logoColor=green" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" > <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=yellow" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 ## Some of my stats :bar_chart:
-![password123456's GitHub stats](https://github-readme-stats.vercel.app/api?username=password123456&theme=nord&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=password123456&theme=nord&show_icons=true)
 <br>
 
 ### Here is a random meme for you, to make your day better
@@ -30,4 +42,4 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpassword123456%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=password123456" alt="password123456" /> </img> </p> 
