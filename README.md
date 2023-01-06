@@ -29,10 +29,6 @@ I'm a **Cyber Security Engineer** live in [South Korea](https://www.google.com/m
 - Self-sufficiency of work tools 
 - SIEM 
 
-## I'm familiar with these things.
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /> <img src="https://img.shields.io/badge/-Elastic-%23005571?style=for-the-badge&logo=elastic&logoColor=green" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" > <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=yellow" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-
 ## Some of my stats :bar_chart:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=password123456&theme=nord&show_icons=true)
 <br>
