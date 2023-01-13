@@ -29,6 +29,15 @@ I'm a **Cyber Security Engineer** live in [South Korea](https://www.google.com/m
 - Self-sufficiency of work tools 
 - SIEM 
 
+### Free Latest CVE-0day-exploit news
+- Get free latest infomation. If useful to someone, free for all to the last.
+
+ID | Item | Channel
+----- | ----- | ----- 
+1 | Latest CVE 0day exploit | <a href="https://t.me/a_new_cybersec_vulnerability"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>  <a href="https://roost-watchtower.slack.com/archives/C04J56AN7GE"> <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white"> </a>
+2 | Useful Security Articles | <a href="https://t.me/+q9apBoKiu0NmYjBl"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
+
+
 ## Some of my stats :bar_chart:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=password123456&theme=nord&show_icons=true)
 <br>
