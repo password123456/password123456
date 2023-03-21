@@ -40,5 +40,4 @@ ID | Item | Channel
 
 
 ![Profile](https://komarev.com/ghpvc/?username=password123456)
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkedin/)](https://www.linkedin.com/in/linkedin/)
 [![GitHub followers](https://img.shields.io/github/followers/password123456?style=social)](https://www.github.com/password123456)
