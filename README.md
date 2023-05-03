@@ -24,7 +24,7 @@ My day to day work is do security assessment a various of interesting it-service
 - Self-sufficiency of work tools 
 - SIEM 
 
-### Free Latest CVE-0day-exploit feeds (1)
+### Free Latest CVE-0day-exploit feeds
 - Get free latest infomation. If useful to someone, free for all to the last.
 
 ID | Item | Channel
@@ -32,14 +32,6 @@ ID | Item | Channel
 1 | Latest CVE 0day exploit | <a href="https://t.me/a_new_cybersec_vulnerability"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 2 | Useful Security Articles | <a href="https://t.me/+q9apBoKiu0NmYjBl"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 
-#### Free Latest analyzed CVEs (2)
-- A properly analyzed and filtered latest CVEs for blue team security engineers.
-- The list of detections is my views, but the list is constantly updated for better accuracy.
-- Anyway, free for all to the last.
-
-ID | Item | Channel
------ | ----- | ----- 
-1 | Latest Analyzed CVEs | <a href="https://t.me/refined_cve_id_that_have_to_see"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 
 ## Some of my stats :bar_chart:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=password123456&theme=nord&show_icons=true)
