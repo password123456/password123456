@@ -11,25 +11,13 @@ My day to day work is do security assessment a various of interesting it-service
 > Everyday life is always not enough to satisfy, but must be a knight of the light rather than darkness.
 > -- that's the way you should go.
 
-### My top 10 technologies keyword :muscle:
-
-- Security Assessment 
-- Incident Response 
-- Vulnerability Analysis and Mitigation
-- Payment(Block Chain) 
-- Web Application(Rest API) 
-- Cloud / On-Premise Enviroments
-- Experience hardening systems at tens of thousands of machines 
-- Automation Implementation 
-- Self-sufficiency of work tools 
-- SIEM 
-
 ### Free Latest CVE-0day-exploit feeds
 - Get free latest infomation. If useful to someone, free for all to the last.
 
 ID | Item | Channel
 ----- | ----- | ----- 
-1 | Latest CVE 0day exploit | <a href="https://t.me/a_new_cybersec_vulnerability"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
+1 | Latest CVE 0day exploit | <a href="https://t.me/cybersecu_channel1"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
+2 | Latest Cybersec CVE | <a href="https://t.me/cybersecu_channel2"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 2 | Useful Security Articles | <a href="https://t.me/+q9apBoKiu0NmYjBl"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 
 
