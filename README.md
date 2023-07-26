@@ -16,8 +16,7 @@ My day to day work is do security assessment a various of interesting it-service
 
 ID | Item | Channel
 ----- | ----- | ----- 
-1 | Latest CVE 0day exploit | <a href="https://t.me/cybersecu_channel1"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
-2 | Latest Cybersec CVE | <a href="https://t.me/cybersecu_channel2"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
+1 | Latest CVE 0day exploit | <a href="https://t.me/+uFZPB44S23o3ZmI1"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 2 | Useful Security Articles | <a href="https://t.me/+q9apBoKiu0NmYjBl"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 
 
