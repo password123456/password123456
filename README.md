@@ -22,10 +22,15 @@ ID | Item | Channel
 3 | Useful Security Articles | <a href="https://t.me/+q9apBoKiu0NmYjBl"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
 
 
-## Some of my stats :bar_chart:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=password123456&theme=nord&show_icons=true)
-<br>
+---
 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=password123456&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=password123456&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=password123456&hide_border=true&background=FFFFFF00">
 
 ![Profile](https://komarev.com/ghpvc/?username=password123456)
 [![GitHub followers](https://img.shields.io/github/followers/password123456?style=social)](https://www.github.com/password123456)
+
+</p>
+<br>
