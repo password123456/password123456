@@ -25,9 +25,9 @@ ID | Item | Channel
 ---
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=password123456&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=password123456&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=password123456&theme=merko&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api?username=password123456&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=password123456&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=password123456&theme=dark&hide_border=true&background=FFFFFF00">
 
 ![Profile](https://komarev.com/ghpvc/?username=password123456)
 [![GitHub followers](https://img.shields.io/github/followers/password123456?style=social)](https://www.github.com/password123456)
